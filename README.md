@@ -1,5 +1,6 @@
 # Emapathetic Chatbot 
 >  **There are challenges in Natural Language Understanding regarding Arabic language, and this is due to the lack of appropriate datasets available for training. So, our goal for this project is to develop an empathetic Arabic conversational chatbot.**
+
 ![WhatsApp Image 2023-08-05 at 8 41 41 PM](https://github.com/sarax0/empathetic-chatbot/assets/122404545/f577d79c-3455-452a-b185-c10d0549545e)
 
 ## Installation
